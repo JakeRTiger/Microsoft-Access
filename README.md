@@ -1,5 +1,5 @@
 # Microsoft-Access
-Access Databases created for Clients on Upwork.  See
+Access Databases created for Clients on Upwork.  See GRUENE CRM SCREENSHOTS.doc
 Greune CRM - Custom Built Custmer Relationship Management (CRM) Microsoft Access Database to manage promotions and track customers.
 How the project started:
 Given an Excel file that contains hundreds of thousands of records that contained tens of thousands of duplicated records
