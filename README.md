@@ -1,6 +1,6 @@
 # Microsoft-Access
-Access Databases created for Clients on Upwork.
-Greune CRM - Custom Built Microsoft Access Database to manage promotions and track customers signed up for those promotions,
+Access Databases created for Clients on Upwork.  See
+Greune CRM - Custom Built Custmer Relationship Management (CRM) Microsoft Access Database to manage promotions and track customers.
 How the project started:
 Given an Excel file that contains hundreds of thousands of records that contained tens of thousands of duplicated records
 Created a relational database consisting of three tables:
@@ -30,6 +30,9 @@ be done directly on the screen to remove records or update, by pressing the Upda
 and/or delete records,  This form also contains a sub form of the promo codes assigned to each records.  Its a very useful screeen.
 Import Functionality
 The Filter Results screen as mentioned can export to Excel and also delete the records in the database if desired.  As a test I filtered all San Antonio records and there were over 38000 records.  I exported the records to Excel and also deleted the records.  Opened the Excel file, made a change to two random records,saved the Excel file and re-imported and all the records including the changes we uploaded back into the database and it was done very fast under one minute.  Not bad considering that each records can have multiple promo codes and the fact that the records are being added to three tables.  Again Very powerful.
+
+Chiropractic Continuing Education Database
+
 
 
 
