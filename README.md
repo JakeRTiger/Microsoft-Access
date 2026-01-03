@@ -31,7 +31,12 @@ and/or delete records,  This form also contains a sub form of the promo codes as
 Import Functionality
 The Filter Results screen as mentioned can export to Excel and also delete the records in the database if desired.  As a test I filtered all San Antonio records and there were over 38000 records.  I exported the records to Excel and also deleted the records.  Opened the Excel file, made a change to two random records,saved the Excel file and re-imported and all the records including the changes we uploaded back into the database and it was done very fast under one minute.  Not bad considering that each records can have multiple promo codes and the fact that the records are being added to three tables.  Again Very powerful.
 
-Chiropractic Continuing Education Database  Seminar Planning
+Chiropractic Continuing Education Database  Seminar Planning  
+See attachments: Seminar Planning Screen.docx and ProduceNYPDF.xlsx
+produceNYPDF contains the source code for populating a PDF template from the Chirpractic Continuing Education Access Database.
+
+Seminar Planning Screen.docx is a screen I developed to be used to control what courses can be outputted into a PDF file
+
 
 
 
